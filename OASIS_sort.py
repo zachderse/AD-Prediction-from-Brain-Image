@@ -2,7 +2,7 @@ import os
 import shutil  
 from PIL import Image
 
-
+ 
 # Assigning the images to files that are related to the metadata of AD rank
 
 for i in range(1,400):
